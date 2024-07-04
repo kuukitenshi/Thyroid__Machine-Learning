@@ -1,4 +1,4 @@
-# Thyroid__Machine-Learning
+# Thyroid - Machine Learning
 
 This project was a collaborative effort involving two more students for our ```Machine Learning``` subject.
 
